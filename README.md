@@ -20,5 +20,6 @@ cp .env.example .env
 Add in your own brave search key and point to your local OLLAMA instance
 # Usage 
 ## use uv to run everything in the python environment
+```
 uv run streamlit run brave_med_chatbot.py
-
+```
