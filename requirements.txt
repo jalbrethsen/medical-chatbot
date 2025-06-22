@@ -1,0 +1,7 @@
+streamlit
+wikipedia
+langchain
+langchain-ollama
+langchain-core
+langchain-community
+xmltodict
